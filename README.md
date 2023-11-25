@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Seven</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security and Machine Learning**
 
 - 📫 How to reach me **mehmetseven82@gmail.com**
 
